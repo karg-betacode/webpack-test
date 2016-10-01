@@ -1,6 +1,3 @@
-<<<<<<< 0fc0fa280f35e566c1ffce28a644c3ad1e2c6eda
-# webpack-test
-=======
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> Fist commit
